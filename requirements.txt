@@ -3,5 +3,4 @@ pandas
 gymnasium
 stable-baselines3
 PySpice
-shimmy
 tensorboard
