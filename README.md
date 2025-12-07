@@ -5,6 +5,7 @@
 * **조:** 40조
 * **팀원:** 120250652 유원준
 * **소속:** 서강대학교 (Sogang University)
+* **Git 주소:** https://github.com/dbdnjswns20/RL_OpAmp_Optimization
 
 ---
 
